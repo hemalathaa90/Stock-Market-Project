@@ -1,1 +1,1 @@
-# Stock-Market-Project
+# Stock price prediction Project
